@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<a href='https://imgur.com/a/tpP3huC' title='Video Walkthrough' width='' alt='Video Walkthrough'> </a>
+[![Video Walkthrough](https://imgur.com/a/tpP3huC)](https://imgur.com/a/tpP3huC)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
