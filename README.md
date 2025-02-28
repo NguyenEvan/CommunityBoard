@@ -29,7 +29,7 @@ Here's a walkthrough of implemented required features:
 [![Video Walkthrough](https://imgur.com/a/tpP3huC)](https://imgur.com/a/tpP3huC)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ScreenToGif  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
